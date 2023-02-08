@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statement about the project.
+A cat photo app using html
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +8,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://01-fcc-catphotoapp.netlify.app)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/Yinkusadel/01-fcc-catphotoapp
 
 ```
 
