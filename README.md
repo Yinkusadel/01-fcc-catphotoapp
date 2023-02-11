@@ -1,4 +1,4 @@
-# Project Name
+# 01-fcc-catphotoapp
 
 A cat photo app using html
 
@@ -7,7 +7,7 @@ A cat photo app using html
 Additional description of the project and its features.
 
 ## Built With
-
+- section
 - html
 
 ## Live Demo
