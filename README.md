@@ -7,7 +7,6 @@ A cat photo app using html
 Additional description of the project and its features.
 
 ## Built With
-
 - section
 - html
 
