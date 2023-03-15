@@ -8,8 +8,16 @@ Additional description of the project and its features.
 
 ## Built With
 
-- section
-- html
+- ### HTML5 elements
+  - **Heading element**
+    `h1` `h2` `h3`
+  - **Form element like**
+    `section` `label` `fieldset` `input` `button` `form` `legend`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
